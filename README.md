@@ -5,7 +5,7 @@ A simple but high-performance implementation of a **Linear Kalman Filter (LKF)**
 > Note: This project was originally developed on a smartphone using Pydroid. Due to this, some features may not function correctly on desktop screens.
 
 ### Free Sample (Pydroid version)
-<img src="animated/orbital_tracking.gif" width="350"> 
+<img src="orbital_tracking.gif" width="350"> 
 
 ## 🔬 Engineering Overview
 Modern orbital systems deal with high-frequency sensor noise and signal dropouts. This project implements a **Constant Velocity (CV) Model** to maintain state estimation even when sensor data is unreliable.
